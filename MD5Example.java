@@ -36,3 +36,12 @@ public class MD5Example {
 	}
  
 }
+
+
+// OUTPUT : 
+// Enter message to compute MD5 hash: Hello 
+
+// ---MD5 Message DIgest---
+// Input Text: Hello 
+// Digest(hex): d1a7fb5eab1c16cb4f7cf341cf188c3d
+// Digest(Base64):0af7XqscFstPfPNBzxiMPQ==
