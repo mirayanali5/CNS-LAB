@@ -36,3 +36,11 @@ public class SHA1Example {
 	}
  
 }
+
+// Output : 
+// Enter message to compute SHA1 hash: Hello
+
+// ---SHA1 Message DIgest---
+// Input Text: Hello
+// Digest(hex): f7ff9e8b7bb2e09b70935a5d785e0cc5d9d0abf0
+// Digest(Base64):9/+ei3uy4Jtwk1pdeF4MxdnQq/A=
