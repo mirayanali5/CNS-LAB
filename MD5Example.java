@@ -30,7 +30,7 @@ public class MD5Example {
 			sc.close();
 		}
 		catch (Exception e){
-			System.err.println("Error while computing SHA-1:" + e.getMessage());
+			System.err.println("Error while computing MD5:" + e.getMessage());
 		}
  
 	}
